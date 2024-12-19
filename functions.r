@@ -79,5 +79,3 @@ outer <- function() {
 
 outer()
 outer()()
-
-
